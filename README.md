@@ -12,7 +12,7 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 
 | Day | Name                               | Part 1 | Part 2 | Points        | Runtime (ms) |
 | --- | :--------------------------------- |:------ |:------ | :------------ | :----------- |
-
+| 1   | Calorie Counting                   | 150th  | 236th  | 0             | xxx          |
 
 __Score:__ 0 points
 
