@@ -13,9 +13,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | Day | Name                               | Part 1 | Part 2 | Points        | Runtime (ms) |
 | --- | :--------------------------------- |:------ |:------ | :------------ | :----------- |
 | 1   | Calorie Counting                   | 150th  | 236th  | 0             | xxx          |
+| 2   | Rock Paper Scissors                | 39th   | 369th  | 62            | xxx          |
 
-__Score:__ 0 points
+__Score:__ 62 points
 
 __Rank:__ N/A
 
-__Total runtime:__ 0 milliseconds
+__Total runtime:__ xxx milliseconds
