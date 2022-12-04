@@ -15,9 +15,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 1   | Calorie Counting                   | 150th  | 236th  | 0             | xxx          |
 | 2   | Rock Paper Scissors                | 39th   | 369th  | 62            | xxx          |
 | 3   | Rucksack Reorganization            | 41st   | 31st   | 60 + 70 = 130 | xxx          |
+| 4   | Camp Cleanup                       | 147th  | 68th   | 33            | xxx          |
 
-__Score:__ 192 points
+__Score:__ 225 points
 
-__Rank:__ 48th
+__Rank:__ 54th
 
 __Total runtime:__ xxx milliseconds
