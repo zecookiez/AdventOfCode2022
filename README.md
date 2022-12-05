@@ -16,9 +16,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 2   | Rock Paper Scissors                | 39th   | 369th  | 62            | xxx          |
 | 3   | Rucksack Reorganization            | 41st   | 31st   | 60 + 70 = 130 | xxx          |
 | 4   | Camp Cleanup                       | 147th  | 68th   | 33            | xxx          |
+| 5   | Supply Stacks                      | 84th   | 62nd   | 17 + 39 = 56  | xxx          |
 
-__Score:__ 225 points
+__Score:__ 281 points
 
-__Rank:__ 54th
+__Rank:__ 52nd
 
 __Total runtime:__ xxx milliseconds

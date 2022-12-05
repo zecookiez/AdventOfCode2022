@@ -7,3 +7,6 @@
 - Day 3: Very happy about my performance today!! Got points on both parts despite running into a few bugs. I'm a little bit tilted that I lost out on points to people abusing OpenAI and Copilot to solve the challenge. Can't imagine how they can enforce this unfortunately.
 
 - Day 4: Lost out on points for part 1 because my regex caught the dash as a negative sign, this one is on me. I count at least 2 people who used ChatGPT in today's leaderboard :/
+
+- Day 5: This is on the board for one of the worst input formats. In retrospect I should've hardcoded the input for the extra speed, but I prefer solutions that work on various inputs :")
+
