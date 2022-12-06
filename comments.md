@@ -10,3 +10,4 @@
 
 - Day 5: This is on the board for one of the worst input formats. In retrospect I should've hardcoded the input for the extra speed, but I prefer solutions that work on various inputs :")
 
+- Day 6: Did well today, not sure why this is day 6. 
