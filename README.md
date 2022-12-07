@@ -18,9 +18,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 4   | Camp Cleanup                       | 147th  | 68th   | 33            | xxx          |
 | 5   | Supply Stacks                      | 84th   | 62nd   | 17 + 39 = 56  | xxx          |
 | 6   | Tuning Trouble                     | 34th   | 26th   | 67 + 75 = 142 | xxx          |
+| 7   | No Space Left On Device            | 1053rd | 589th  | 0             | xxx          |
 
 __Score:__ 423 points
 
-__Rank:__ 38th
+__Rank:__ 43rd
 
 __Total runtime:__ xxx milliseconds
