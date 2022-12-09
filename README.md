@@ -20,9 +20,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 6   | Tuning Trouble                     | 34th   | 26th   | 67 + 75 = 142 | xxx          |
 | 7   | No Space Left On Device            | 1053rd | 589th  | 0             | xxx          |
 | 8   | Treetop Tree House                 | 1047th | 704th  | 0             | xxx          |
+| 9   | Rope Bridge                        | 117th  | 74th   | 27            | xxx          |
 
-__Score:__ 423 points
+__Score:__ 450 points
 
-__Rank:__ 48th
+__Rank:__ 52nd
 
 __Total runtime:__ xxx milliseconds

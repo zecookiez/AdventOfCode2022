@@ -15,3 +15,5 @@
 - Day 7: Forgot that directories can have duplicate names..........................................
 
 - Day 8: I tried to be smart and wrote it without brute-force for part 1. It did NOT work, and did NOT extend to part 2 ;---; Need to learn when to use brute-force, gg go next 
+
+- Day 9: Cool problem, but there's too much thinking... I'm just glad I got points today
