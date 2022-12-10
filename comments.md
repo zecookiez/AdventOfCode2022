@@ -17,3 +17,5 @@
 - Day 8: I tried to be smart and wrote it without brute-force for part 1. It did NOT work, and did NOT extend to part 2 ;---; Need to learn when to use brute-force, gg go next 
 
 - Day 9: Cool problem, but there's too much thinking... I'm just glad I got points today
+
+- Day 10: My code passes the testcase but fails on sample ;w; ended up rewriting my solution because I fear that this solution will get reused for an upcoming challenge 

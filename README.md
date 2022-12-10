@@ -21,9 +21,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 7   | No Space Left On Device            | 1053rd | 589th  | 0             | xxx          |
 | 8   | Treetop Tree House                 | 1047th | 704th  | 0             | xxx          |
 | 9   | Rope Bridge                        | 117th  | 74th   | 27            | xxx          |
+| 10  | Cathode-Ray Tube                   | 756th  | 116th  | 0             | xxx          |
 
 __Score:__ 450 points
 
-__Rank:__ 52nd
+__Rank:__ 57th
 
 __Total runtime:__ xxx milliseconds
