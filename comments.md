@@ -19,3 +19,5 @@
 - Day 9: Cool problem, but there's too much thinking... I'm just glad I got points today
 
 - Day 10: My code passes the testcase but fails on sample ;w; ended up rewriting my solution because I fear that this solution will get reused for an upcoming challenge 
+
+- Day 11: Took me too long to figure out part 2, I am definitely a lot more washed than last year
