@@ -23,9 +23,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 9   | Rope Bridge                        | 117th  | 74th   | 27            | xxx          |
 | 10  | Cathode-Ray Tube                   | 756th  | 116th  | 0             | xxx          |
 | 11  | Monkey in the Middle               | 85th   | 130th  | 16            | xxx          |
+| 12  | Hill Climbing Algorithm            | 4th    | 4th    | 97 + 97 = 194 | xxx          |
 
-__Score:__ 466 points
+__Score:__ 660 points
 
-__Rank:__ 59th
+__Rank:__ 43rd
 
 __Total runtime:__ xxx milliseconds

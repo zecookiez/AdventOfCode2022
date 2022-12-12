@@ -21,3 +21,5 @@
 - Day 10: My code passes the testcase but fails on sample ;w; ended up rewriting my solution because I fear that this solution will get reused for an upcoming challenge 
 
 - Day 11: Took me too long to figure out part 2, I am definitely a lot more washed than last year
+
+- Day 12: New personal best on both parts haha that was insane! Gambled on a grid breadth-first search problem showing up and got rewarded with some crazy points today
