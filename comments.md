@@ -23,3 +23,5 @@
 - Day 11: Took me too long to figure out part 2, I am definitely a lot more washed than last year
 
 - Day 12: New personal best on both parts haha that was insane! Gambled on a grid breadth-first search problem showing up and got rewarded with some crazy points today
+
+- Day 13: Could not fix a bug in time for points... This should've been a simple day to get some points.

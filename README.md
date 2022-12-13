@@ -24,9 +24,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 10  | Cathode-Ray Tube                   | 756th  | 116th  | 0             | xxx          |
 | 11  | Monkey in the Middle               | 85th   | 130th  | 16            | xxx          |
 | 12  | Hill Climbing Algorithm            | 4th    | 4th    | 97 + 97 = 194 | xxx          |
+| 13  | Distress Signal                    | 421st  | 247th  | 0             | xxx          |
 
 __Score:__ 660 points
 
-__Rank:__ 43rd
+__Rank:__ 50th
 
 __Total runtime:__ xxx milliseconds
