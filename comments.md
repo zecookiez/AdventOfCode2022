@@ -25,3 +25,5 @@
 - Day 12: New personal best on both parts haha that was insane! Gambled on a grid breadth-first search problem showing up and got rewarded with some crazy points today
 
 - Day 13: Could not fix a bug in time for points... This should've been a simple day to get some points.
+
+- Day 14: PTSD from 2018, spent a bit too much time laughing at the problem. Also couldn't upload this in time because I had to go sleep early for an exam the following morning.
