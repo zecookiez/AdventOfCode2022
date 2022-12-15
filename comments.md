@@ -27,3 +27,5 @@
 - Day 13: Could not fix a bug in time for points... This should've been a simple day to get some points.
 
 - Day 14: PTSD from 2018, spent a bit too much time laughing at the problem. Also couldn't upload this in time because I had to go sleep early for an exam the following morning.
+
+- Day 15: Fun problem to optimize, mildly surprised I got points for part 2 after throwing really badly.

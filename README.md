@@ -26,9 +26,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 12  | Hill Climbing Algorithm            | 4th    | 4th    | 97 + 97 = 194 | xxx          |
 | 13  | Distress Signal                    | 421st  | 247th  | 0             | xxx          |
 | 14  | Regolith Reservoir                 | 132nd  | 103rd  | 0             | xxx          |
+| 15  | Beacon Exclusion Zone              | 14th   | 97th   | 87 + 4 = 91   | xxx          |
 
-__Score:__ 660 points
+__Score:__ 751 points
 
-__Rank:__ 57th
+__Rank:__ 54th
 
 __Total runtime:__ xxx milliseconds
