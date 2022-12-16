@@ -29,3 +29,5 @@
 - Day 14: PTSD from 2018, spent a bit too much time laughing at the problem. Also couldn't upload this in time because I had to go sleep early for an exam the following morning.
 
 - Day 15: Fun problem to optimize, mildly surprised I got points for part 2 after throwing really badly.
+
+- Day 16: Cool problem but this is never going to finish running on my computer haha
