@@ -28,9 +28,11 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 14  | Regolith Reservoir                 | 132nd  | 103rd  | 0             | xxx          |
 | 15  | Beacon Exclusion Zone              | 14th   | 97th   | 87 + 4 = 91   | xxx          |
 | 16  | Proboscidea Volcanium              | 65th   | 312th  | 36            | xxx          |
+| 17  | Pyroclastic Flow                   | 161st  | 370th  | 0             | xxx          |
+| 18  | Boiling Boulders                   | 109th  | 177th  | 0             | xxx          |
 
 __Score:__ 787 points
 
-__Rank:__ 53rd
+__Rank:__ 61st
 
 __Total runtime:__ xxx milliseconds

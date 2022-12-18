@@ -31,3 +31,7 @@
 - Day 15: Fun problem to optimize, mildly surprised I got points for part 2 after throwing really badly.
 
 - Day 16: Cool problem but this is never going to finish running on my computer haha
+
+- Day 17: Super ugly code that I hope will never see the light of the sun again. Also could not upload yesterday because I had an exam the same day.
+
+- Day 18: Very surprised I did not get leaderboard today, I thought I went really quick but I guess I am washed.
