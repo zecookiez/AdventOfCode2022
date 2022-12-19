@@ -30,9 +30,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 16  | Proboscidea Volcanium              | 65th   | 312th  | 36            | xxx          |
 | 17  | Pyroclastic Flow                   | 161st  | 370th  | 0             | xxx          |
 | 18  | Boiling Boulders                   | 109th  | 177th  | 0             | xxx          |
+| 19  | Not Enough Minerals                | 353rd  | 314th  | 0             | xxx          |
 
 __Score:__ 787 points
 
-__Rank:__ 61st
+__Rank:__ 62nd
 
 __Total runtime:__ xxx milliseconds

@@ -35,3 +35,5 @@
 - Day 17: Super ugly code that I hope will never see the light of the sun again. Also could not upload yesterday because I had an exam the same day.
 
 - Day 18: Very surprised I did not get leaderboard today, I thought I went really quick but I guess I am washed.
+
+- Day 19: Challenges are getting harder, making it increasingly obvious that my lack of  problem-solving this past year is biting back at me. I like these challenges where you have to cut down the runtime though!
