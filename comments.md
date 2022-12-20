@@ -37,3 +37,5 @@
 - Day 18: Very surprised I did not get leaderboard today, I thought I went really quick but I guess I am washed.
 
 - Day 19: Challenges are getting harder, making it increasingly obvious that my lack of  problem-solving this past year is biting back at me. I like these challenges where you have to cut down the runtime though!
+
+- Day 20: I keep forgetting there's a deque problem every year and I keep flopping on it forgetting that rotate exists...
