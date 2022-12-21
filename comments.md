@@ -39,3 +39,6 @@
 - Day 19: Challenges are getting harder, making it increasingly obvious that my lack of  problem-solving this past year is biting back at me. I like these challenges where you have to cut down the runtime though!
 
 - Day 20: I keep forgetting there's a deque problem every year and I keep flopping on it forgetting that rotate exists...
+
+- Day 21: Glad to get some points as we approach the end, and I did not choke too hard on part 2 :) bless the fractions library
+

@@ -32,9 +32,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 18  | Boiling Boulders                   | 109th  | 177th  | 0             | xxx          |
 | 19  | Not Enough Minerals                | 353rd  | 314th  | 0             | xxx          |
 | 20  | Grove Positioning System           | 751st  | 482nd  | 0             | xxx          |
+| 21  | Monkey Math                        | 50th   | 81st   | 51 + 20 = 71  | xxx          |
 
-__Score:__ 787 points
+__Score:__ 858 points
 
-__Rank:__ 64th
+__Rank:__ 61st
 
 __Total runtime:__ xxx milliseconds
