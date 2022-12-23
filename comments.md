@@ -44,3 +44,5 @@
 
 - Day 22: Just not fun. And very prone to bugs.
 
+- Day 23: "If no other Elves are in one of those eight positions, the Elf does not do anything during this round." i missed out on leaderboards to this
+
