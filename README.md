@@ -33,9 +33,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 19  | Not Enough Minerals                | 353rd  | 314th  | 0             | xxx          |
 | 20  | Grove Positioning System           | 751st  | 482nd  | 0             | xxx          |
 | 21  | Monkey Math                        | 50th   | 81st   | 51 + 20 = 71  | xxx          |
+| 22  | Monkey Map                         | 217th  | 626th  | 0             | xxx          |
 
 __Score:__ 858 points
 
-__Rank:__ 61st
+__Rank:__ 66th
 
 __Total runtime:__ xxx milliseconds

@@ -42,3 +42,5 @@
 
 - Day 21: Glad to get some points as we approach the end, and I did not choke too hard on part 2 :) bless the fractions library
 
+- Day 22: Just not fun. And very prone to bugs.
+
