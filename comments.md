@@ -46,3 +46,5 @@
 
 - Day 23: "If no other Elves are in one of those eight positions, the Elf does not do anything during this round." i missed out on leaderboards to this
 
+- Day 24: thank you eric for putting another breadth-first search problem <3 my leaderboard is saved (apparently i am a bfs one trick)
+

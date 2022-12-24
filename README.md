@@ -35,9 +35,10 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 21  | Monkey Math                        | 50th   | 81st   | 51 + 20 = 71  | xxx          |
 | 22  | Monkey Map                         | 217th  | 626th  | 0             | xxx          |
 | 23  | Unstable Diffusion                 | 177th  | 137th  | 0             | xxx          |
+| 24  | Blizzard Basin                     | 14th   | 12th   | 87 + 89 = 176 | xxx          |
 
-__Score:__ 858 points
+__Score:__ 1034 points
 
-__Rank:__ 68th
+__Rank:__ 58th
 
 __Total runtime:__ xxx milliseconds
