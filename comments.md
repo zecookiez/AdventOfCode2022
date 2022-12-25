@@ -48,3 +48,4 @@
 
 - Day 24: thank you eric for putting another breadth-first search problem <3 my leaderboard is saved (apparently i am a bfs one trick)
 
+- Day 25: Completely choked on reversing the base-10 to base-5 numeral system. I need to get better at math ;--;

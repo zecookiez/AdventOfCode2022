@@ -36,9 +36,25 @@ As always, the goal is to stay on the leaderboard. However, I am unsure if I can
 | 22  | Monkey Map                         | 217th  | 626th  | 0             | xxx          |
 | 23  | Unstable Diffusion                 | 177th  | 137th  | 0             | xxx          |
 | 24  | Blizzard Basin                     | 14th   | 12th   | 87 + 89 = 176 | xxx          |
+| 25  | Full of Hot Air                    | 664th  | 568th  | 0             | xxx          |
 
 __Score:__ 1034 points
 
-__Rank:__ 58th
+__Rank:__ 61st
 
-__Total runtime:__ xxx milliseconds
+__Total runtime:__ xxx milliseconds (one day I will fix this...)
+
+## Calendar Art
+
+<p align="center" width="100%">
+  <i>Credits to Eric Wastl (the creator of AOC) for the amazing ASCII calendar art!</i> <br>
+  <img align="center" src="art.png"> 
+</p>
+
+## Final Thoughts 
+
+While the rust definitely showed this year, I'm glad I made it onto the leaderboard and set some personal records (day 12)! 
+
+This was a good year to work on problem-solving and writing solid code, and it's clear that I could improve at it. Combined with ongoing finals, there were multiple days where I wrote straight garbage and unoptimized code.
+
+I will come back again next year and (hopefully) keep the streak going! 
